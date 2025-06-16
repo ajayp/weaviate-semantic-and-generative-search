@@ -6,6 +6,9 @@ This project demonstrates how to set up **Weaviate locally using Docker** and in
 This project showcases how **Weaviate & Ollama** power **intelligent book recommendations** through **semantic search** and **generative AI (RAG)**.
 
 ---
+<img width="1573" alt="image" src="https://github.com/user-attachments/assets/de312e84-414b-45dd-9bed-e660d43fb9c1" />
+
+---
 
 ## **Environment Setup**
 ### **1. Start Weaviate with Docker**
@@ -95,7 +98,6 @@ node 4-generativeSearch.ts
 ### **✅ Why `nomic-embed-text`?**
 - **Optimized for natural language** (book titles, summaries, reviews).
 - Excels in **semantic similarity tasks**.
-- High performance on **MTEB benchmarks**.
 
 ### **❌ Why Not `snowflake-arctic-embed`?**
 - Tuned for **structured enterprise data** (logs, financial docs).
@@ -103,3 +105,5 @@ node 4-generativeSearch.ts
 - Suitable only for **metadata-based queries** (e.g., *"Books by Stephen King after 2000"*).
 
 ---
+<img width="1504" alt="image" src="https://github.com/user-attachments/assets/a6545717-1c40-4b4f-901f-8412d20d9d60" />
+
